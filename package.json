@@ -21,7 +21,10 @@
     "test:watch": "nwb test-react --server"
   },
   "dependencies": {
-    "mobile-device-detect": "^0.4.3"
+    "mobile-device-detect": "^0.4.3",
+    "@mui/material": "5.15.20",
+    "@emotion/react": "11.11.4",
+    "@emotion/styled": "11.11.5"
   },
   "peerDependencies": {
     "react": "16.x"
